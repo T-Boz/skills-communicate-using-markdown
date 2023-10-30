@@ -5,3 +5,8 @@
 ```Markdown
 This is my code. Please do not copy
 ```
+
+- [x] Edit index.md
+- [x] Add a task list
+- [x] Preview changes
+- [ ] Commit changes
